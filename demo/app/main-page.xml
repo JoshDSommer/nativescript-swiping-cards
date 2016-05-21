@@ -1,0 +1,19 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:Slides="nativescript-swiping-cards" loaded="pageLoaded">
+	<Slides:SlideContainer>
+		<Slides:Slide class="slide-1">
+			<Label text="This is Panel 1"  />
+		</Slides:Slide>
+		<Slides:Slide class="slide-2">
+			<Label text="This is Panel 2"  />
+		</Slides:Slide>
+		<Slides:Slide class="slide-3">
+			<Label text="This is Panel 3"  />
+		</Slides:Slide>
+		<Slides:Slide class="slide-4">
+			<Label text="This is Panel 4"  />
+		</Slides:Slide>
+		<Slides:Slide class="slide-5">
+			<Label text="This is Panel 5"  />
+		</Slides:Slide>
+	</Slides:SlideContainer>
+</Page>
